@@ -1,4 +1,3 @@
-# 01_data_import.R
 # Import and clean archaeological and proxy datasets
 
 library(readxl)
